@@ -11,7 +11,7 @@ I’m a passionate developer interested in crafting elegant solutions to complex
 - 🔭 Currently working on personal projects and open-source contributions.
 - 🌱 I’m learning more about **AI/ML**
 - 💬 Ask me about **Python**
-- 😄 Pronouns: he/hm
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Sonic the Hedgehog and video game music!
 
 ## 🛠️ Tech Stack
