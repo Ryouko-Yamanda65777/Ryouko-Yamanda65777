@@ -7,9 +7,7 @@
 I’m a passionate developer interested in crafting elegant solutions to kinda complex problems. I love working with cutting-edge technologies, and I’m always eager to learn and improve my skills. Below you’ll find a glimpse into what I do.
 
 
-<p align="right">
-  <img src="https://github.com/user-attachments/assets/e2c902fb-d568-47f7-802a-2e19c5574fab" alt="yes" width="200">
-</p>
+
 
 
 
@@ -32,7 +30,9 @@ I’m a passionate developer interested in crafting elegant solutions to kinda c
 
   
 <img src="https://github.com/user-attachments/assets/1fa87ba4-483a-462b-873a-0737bd5611ea" alt="bocchi" style="float: left; margin-right: 10px;">
-
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/e2c902fb-d568-47f7-802a-2e19c5574fab" alt="yes" width="200">
+</p>
 
 
 ## 📈 GitHub Stats
