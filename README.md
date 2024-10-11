@@ -12,13 +12,18 @@ I’m a passionate developer interested in crafting elegant solutions to complex
 - 🌱 I’m learning more about **AI/ML**
 - 💬 Ask me about **Python**
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love Sonic the Hedgehog and video game music!
+- ⚡ Fun fact: I love Sonic the Hedgehog and Bocchi The Rock!
 
 ## 🛠️ Tech Stack
 
 - **Languages**: Python
 - **Tools**: Git, Gradio
 - **Cloud**: googgle colab
+
+  
+<img src="https://github.com/user-attachments/assets/1fa87ba4-483a-462b-873a-0737bd5611ea" alt="bocchi" style="float: left; margin-right: 10px;">
+
+
 
 ## 📈 GitHub Stats
 
