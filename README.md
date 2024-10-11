@@ -8,8 +8,9 @@ I’m a passionate developer interested in crafting elegant solutions to kinda c
 
 
 <p align="right">
-  <img src="https://github.com/user-attachments/assets/e2c902fb-d568-47f7-802a-2e19c5574fab" alt="yes">
+  <img src="https://github.com/user-attachments/assets/e2c902fb-d568-47f7-802a-2e19c5574fab" alt="yes" width="200">
 </p>
+
 
 
 ## 🌟 About Me
