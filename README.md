@@ -4,7 +4,13 @@
 
 ![Profile Banner](https://via.placeholder.com/1024x300.png?text=Welcome+to+Ryouko's+Profile)
 
-I’m a passionate developer interested in crafting elegant solutions to complex problems. I love working with cutting-edge technologies, and I’m always eager to learn and improve my skills. Below you’ll find a glimpse into what I do.
+I’m a passionate developer interested in crafting elegant solutions to kinda complex problems. I love working with cutting-edge technologies, and I’m always eager to learn and improve my skills. Below you’ll find a glimpse into what I do.
+
+
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/e2c902fb-d568-47f7-802a-2e19c5574fab" alt="yes">
+</p>
+
 
 ## 🌟 About Me
 
@@ -13,6 +19,9 @@ I’m a passionate developer interested in crafting elegant solutions to complex
 - 💬 Ask me about **Python**
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Sonic the Hedgehog and Bocchi The Rock!
+
+
+  
 
 ## 🛠️ Tech Stack
 
