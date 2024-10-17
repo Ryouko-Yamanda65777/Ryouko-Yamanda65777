@@ -29,6 +29,12 @@ I’m a passionate developer interested in crafting elegant solutions to kinda c
 [![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 
+<audio controls>
+  <source src="https://github.com/Ryouko-Yamanda65777/Ryouko-Yamanda65777/raw/refs/heads/main/HAI%20YOROKONDE%20-%20Kocchi%20no%20Kento%20Spanish%20Cover%20Acapella%20RenRvc%20Ver.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+
 
 ## 📈 GitHub Stats
 
