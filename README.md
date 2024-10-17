@@ -25,6 +25,11 @@ I’m a passionate developer interested in crafting elegant solutions to kinda c
   <img src="https://github.com/user-attachments/assets/e2c902fb-d568-47f7-802a-2e19c5574fab" alt="yes" width="200">
 </p>
 
+
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+
+
 ## 📈 GitHub Stats
 
 ![Ryouko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryouko-Yamanda65777&show_icons=true&theme=radical)
